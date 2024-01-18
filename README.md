@@ -3,3 +3,9 @@ Using OpenCV and PyFirmata, the main power supply is controlled using arduino bo
 
 When the room is empty the power is cut down automatically.
 As soon as any person enters the power is turned up.
+
+Hardware Used:
+USB HD Camera
+Raspberry Pi
+Arduino UNO R3
+DC Supply 5V to power raspberry and arduino
