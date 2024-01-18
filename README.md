@@ -8,4 +8,5 @@ Hardware Used:
 USB HD Camera,
 Raspberry Pi,
 Arduino UNO R3,
+Monitor (if required),
 DC Supply 5V to power raspberry and arduino.
