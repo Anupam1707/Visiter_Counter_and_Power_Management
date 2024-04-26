@@ -5,7 +5,7 @@ People Counting in Real-Time using live video stream/IP camera in OpenCV.
 
 <div align="center">
 <img src=https://raw.githubusercontent.com/Anupam1707/Visiter_Counter_and_Power_Management/main/ScreenView.jpg width=550>
-<p>Live demo</p>
+<p>ScreenShot</p>
 </div>
 
 - The primary aim is to use the project as a business perspective, ready to scale.
