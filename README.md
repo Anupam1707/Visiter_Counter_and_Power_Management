@@ -4,7 +4,7 @@ People Counting in Real-Time using live video stream/IP camera in OpenCV.
 > NOTE: This is an improvement/modification to https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/
 
 <div align="center">
-<img src=(https://raw.githubusercontent.com/Anupam1707/Visiter_Counter_and_Power_Management/main/ScreenView.jpg)" width=550>
+<img src=https://raw.githubusercontent.com/Anupam1707/Visiter_Counter_and_Power_Management/main/ScreenView.jpg" width=550>
 <p>Live demo</p>
 </div>
 
