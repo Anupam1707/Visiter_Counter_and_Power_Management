@@ -13,7 +13,7 @@ People Counting in Real-Time using live video stream/IP camera in OpenCV.
 - Automating Power Supply to switch off when room in empty.
 - Automating features and optimising the real-time stream for better performance (with threading).
 - Acts as a measure towards footfall analysis and in a way to tackle COVID-19 scenarios.
-- 
+
 ## Simple Theory
 
 ### SSD detector
